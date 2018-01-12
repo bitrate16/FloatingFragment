@@ -1,6 +1,6 @@
                       Controls
 ---------------------------------------------------
-`Mouse drag   = move``  
+``Mouse drag   = move``  
 ``Double click = disable/inable float over all widows``  
 ``Triple click = close``  
 
