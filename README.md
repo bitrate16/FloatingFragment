@@ -14,3 +14,5 @@ image_set - creates bunch of windows each window for each image
 frame_set - creates animation from frames
 image     - shows single image
 gif       - splits input gif file into frames
+
+[image]: scr.png
