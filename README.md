@@ -16,3 +16,5 @@
 ``gif       - splits input gif file into frames``  
   
 ![image](scr.png)
+
+~~Do not use it on linux, it fucks up~~
